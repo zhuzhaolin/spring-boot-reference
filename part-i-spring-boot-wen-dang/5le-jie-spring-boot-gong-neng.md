@@ -1,10 +1,10 @@
 ### 5. 了解Spring Boot功能
 
-需要有关Spring Boots核心功能的更多细节？请看这里
+需要有关Spring Boots核心功能的更多细节？请看[这里](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#boot-features)
 
-    + 核心功能: SpringApplication | External Configuration | Profiles | Logging
-    + Web 应用: MVC | Embedded Containers
-    + 数据处理: SQL | NO-SQL
-    + 消息处理: Overview | JMS
-    + 测试: Overview | Boot Applications | Utils
-    + 扩展: Auto-configuration | @Conditions
+    + 核心功能: [SpringApplication ](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#boot-features-spring-application)| [External Configuration](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#boot-features-spring-application) | [Profiles](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#boot-features-profiles) | [Logging](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#boot-features-logging)
+    + Web 应用: [MVC](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#boot-features-spring-mvc) | [Embedded Containers](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#boot-features-embedded-container)
+    + 数据处理: [SQL](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#boot-features-sql) | [NO-SQL](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#boot-features-sql)
+    + 消息处理: [Overview](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#boot-features-messaging/) | [JMS](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#boot-features-jms)
+    + 测试: [Overview](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#boot-features-testing) | [Boot Application](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#boot-features-testing-spring-boot-applications)s | [Utils](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#boot-features-test-utilities)
+    + 扩展: [Auto-configuration](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#boot-features-developing-auto-configuration) | [@Conditions](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#boot-features-condition-annotations)
