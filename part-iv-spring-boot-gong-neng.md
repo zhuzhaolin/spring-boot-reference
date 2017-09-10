@@ -1,0 +1,2 @@
+### Part IV. Spring Boot 功能
+本节将会介绍Spring Boot的一些细节。 在这里，您可以了解您将要使用和自定义的主要功能。 如果还没有准备好，您可能需要阅读第二部分“[入门指南](http://blog.geekidentity.com/spring/spring_boot_translation/#Part-II-入门指南)”和第三部分“[使用 Spring Boot](http://blog.geekidentity.com/spring/spring_boot_translation/#Part-III-使用-Spring-Boot)”部分，以使您有基础的良好基础。
