@@ -5,3 +5,16 @@
 
 您可以在 https://start.spring.io/ 的依赖关系搜索器中选择Web启动器来快速完成以下步骤。
 这会自动生成一个新的项目结构，方便您立即[开始编码](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#getting-started-first-application-code)。 查看文档了解[更多详细信息](https://github.com/spring-io/initializr)。
+
+在开始之前，打开终端来检查您是否安装了有效的Java和Maven版本。
+```
+$ java -version
+java version "1.7.0_51"
+Java(TM) SE Runtime Environment (build 1.7.0_51-b13)
+Java HotSpot(TM) 64-Bit Server VM (build 24.51-b03, mixed mode)
+$ mvn -v
+Apache Maven 3.2.3 (33f8c3e1027c3ddde99d3cdebad2656a31e8fdf4; 2014-08-11T13:58:10-07:00)
+Maven home: /Users/user/tools/apache-maven-3.1.1
+Java version: 1.7.0_51, vendor: Oracle Corporation
+```
+>这个示例需要在其自己的文件夹中创建。 后面我们假设您在当前目录已经创建了一个正确的文件夹。
