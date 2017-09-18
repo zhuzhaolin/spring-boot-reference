@@ -1,0 +1,3 @@
+### 24.6.2 将YAML作为Spring环境中的属性文件
+
+可以使用YamlPropertySourceLoader类在Spring环境中将YAML作为PropertySource暴露出来。 这允许您使用熟悉的@Value注解和占位符语法来访问YAML属性。
