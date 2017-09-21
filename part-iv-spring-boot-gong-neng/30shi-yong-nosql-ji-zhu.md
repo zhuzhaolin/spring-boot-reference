@@ -1,0 +1,3 @@
+### 30. 使用NoSQL技术
+
+Spring Data提供了额外的项目，可帮助您访问各种NoSQL技术，包括[MongoDB](http://projects.spring.io/spring-data-mongodb/)，[Neo4J](http://projects.spring.io/spring-data-neo4j/)，[Elasticsearch](https://github.com/spring-projects/spring-data-elasticsearch/)，[Solr](http://projects.spring.io/spring-data-solr/)，[Redis](http://projects.spring.io/spring-data-redis/)，[Gemfire](http://projects.spring.io/spring-data-gemfire/)，[Cassandra](http://projects.spring.io/spring-data-cassandra/)，[Couchbase](http://projects.spring.io/spring-data-couchbase/)和[LDAP](http://projects.spring.io/spring-data-ldap/)。 Spring Boot为Redis，MongoDB，Neo4j，Elasticsearch，Solr Cassandra，Couchbase和LDAP提供了自动配置; 您也可以使用其他项目，但您需要自行配置它们。 请参阅[projects.spring.io/spring-data](http://projects.spring.io/spring-data)中相应的参考文档。
